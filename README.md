@@ -1,11 +1,17 @@
 # Welcome to 赖欣欣的博客
 
-[leopard](https://lxxxzf.github.io/) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
+[lxxxzf](https://lxxxzf.github.io/) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
 
 ### 使用手册
 
-[赖欣欣搭建个人博客](https://github.com/lxxxzf/lxxxzf.github.io/blob/master/2018-06-14-%E8%B5%96%E6%AC%A3%E6%AC%A3%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)  :  使用赖欣欣搭建个人博客的教程，以及如果把博客模板修改成你自己的博客，里面也有大量的评论，及赖欣欣搭建博客出现过的问题。如果你在搭建博客时遇到问题，可以看看这个教程。 
-
+[lxxxzf搭建个人博客](https://github.com/lxxxzf/lxxxzf.github.io/blob/master/2018-06-14-lxxxzf%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)  :  使用lxxxzf搭建个人博客的教程，以及如果把博客模板修改成你自己的博客，里面也有大量的评论，及lxxxzf搭建博客出现过的问题。如果你在搭建博客时遇到问题，可以看看这个教程。 
+---
+layout: post
+title: "博客的介绍"
+date: 2018-06-14 10:10
+description: "对博客的认识"
+tag: 博客
+---
 [博客的介绍](https://github.com/lxxxzf/lxxxzf.github.io/blob/master/2018-06-14-%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BB%8B%E7%BB%8D.md) : 
 
 
