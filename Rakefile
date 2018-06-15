@@ -182,7 +182,7 @@ namespace :theme do
       => ERROR: '#{packaged_theme_path}' directory not found.
       => Installable themes can be added via git. You can find some here: https://github.com/lxxxzf
       => To download+install run: `rake theme:install git='[PUBLIC-CLONE-URL]'`
-      => example : rake theme:install git='git@github.com:jekyllbootstrap/theme-the-program.git'
+      => example : rake theme:install git='git@github.com:lxxxzfbootstrap/theme-the-program.git'
     ") unless FileTest.directory?(packaged_theme_path)
     
     manifest = verify_manifest(packaged_theme_path)
