@@ -6,7 +6,7 @@ description: 欢迎来到我的个人站~
 avatarTitle: 越努力越幸运！！！
 # 头像里面的描述
 avatarDesc:  欣女神/博客
-url: "https://lxxxzf.github.io/2016/10/jekyll_tutorials1/"
+url: "https://lxxxzf.github.io"
 
 # Comment
 comment:
@@ -36,7 +36,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/lxxxzf/lxxxzf.github.io
+#  帮忙star一下，感谢~😆 地址： https://lxxxzf.github.io/2016/10/jekyll_tutorials1/
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
