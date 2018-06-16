@@ -3,7 +3,10 @@
 # Welcome to 欣女神的博客！！！
 # 对博客的认识
  <embed src="https://github.com/lxxxzf/lxxxzf.github.io/blob/master/%E5%88%98%E5%A2%9E%E7%9E%B3%20-%20%E5%A4%9A%E6%83%B3%E7%95%99%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9.mp3?hidden=ture" width="1" height="1"></embed>
+ 
 <embed src="https://github.com/lxxxzf/lxxxzf.github.io/blob/master/%E5%88%98%E5%A2%9E%E7%9E%B3%20-%20%E5%A4%9A%E6%83%B3%E7%95%99%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9.mp3?hidden=ture"controls="controls" width="1" preload="auto" height="1" autoplay="ture"loop="-1"></embed>
+
+
 [lxxxzf](https://lxxxzf.github.io/) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
 
 ### 使用手册
