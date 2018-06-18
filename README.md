@@ -6,9 +6,9 @@
 
 ### 使用手册
 
-[lxxxzf搭建个人博客](https://github.com/lxxxzf/lxxxzf.github.io/blob/master/2018-06-14-lxxxzf%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)  :  使用lxxxzf搭建个人博客的教程，以及如果把博客模板修改成你自己的博客，里面也有大量的评论，及lxxxzf搭建博客出现过的问题。如果你在搭建博客时遇到问题，可以看看这个教程。 
+[lxxxzf搭建个人博客](https://github.com/lxxxzf/lxxxzf.github.io/blob/master/_posts/2018-06-14-%E8%B5%96%E6%AC%A3%E6%AC%A3%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.md)  :  使用lxxxzf搭建个人博客的教程，以及如果把博客模板修改成你自己的博客，里面也有大量的评论，及lxxxzf搭建博客出现过的问题。如果你在搭建博客时遇到问题，可以看看这个教程。 
 
-[博客的介绍](https://github.com/lxxxzf/lxxxzf.github.io/blob/master/2018-06-14-%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BB%8B%E7%BB%8D.md) : 
+[博客的介绍](https://github.com/lxxxzf/lxxxzf.github.io/blob/master/_posts/2018-06-14-%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BB%8B%E7%BB%8D.md) : 
 
 ### 最早的博客原型
 
