@@ -61,37 +61,6 @@
 </head>
 
 
-  
-
-        <div class="navigation-wrapper">
-          <div>
-            <nav class="cover-navigation cover-navigation--primary">
-              <ul class="navigation">
-                <li class="navigation__item"><a href="/#blog" title="" class="blog-button">博客主页</a></li>
-                
-                  <li class="navigation__item"><a href="/archive" title="archive">所有文章</a></li>
-                
-                  <li class="navigation__item"><a href="/tags" title="tags">标签</a></li>
-                
-                  <li class="navigation__item"><a href="/about" title="about">关于我</a></li>
-                
-              </ul>
-            </nav>
-          </div>          
-        </div>
-
-
-        </div>
-      </div>
-    </div>
-    
-    
-    <div class="panel-cover--overlay cover-clear"></div>
-    
-  </div>
-</header>
-
-
     <div class="content-wrapper">
         <div class="content-wrapper__inner">
             <div class="main-post-list hidden">
