@@ -2,8 +2,180 @@
 # Welcome to 欣女神的博客！！
 # Welcome to 欣女神的博客！！！
 
+<!DOCTYPE html>
 <html>
-<div class="content-wrapper">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <title>潘柏信</title>
+  <meta name="description" content="欢迎来到我的个人站~">
+  <meta name="author" content="leopardpan">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="潘柏信">
+  <meta name="twitter:description" content="欢迎来到我的个人站~">
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="潘柏信">
+  <meta property="og:description" content="欢迎来到我的个人站~">
+  
+  <link rel="icon" type="image/png" href="/images/favicon.png" />
+  <link href="/images/favicon.png" rel="shortcut icon" type="image/png">
+  
+  <link rel="stylesheet" href="/css/main.css">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <link rel="canonical" href="http://baixin.io/">
+  <link rel="alternate" type="application/rss+xml" title="潘柏信" href="http://baixin.io/feed.xml">
+  
+  <meta name="google-site-verification" content="1-1ZlHoRvM0T2FqPbW2S-qLgYXN6rsn52kErlMPd_gw" />
+
+<!-- 站点统计 -->
+  <script 
+  async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+  </script>  
+
+<!-- 百度统计 -->
+  
+  <script>
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?8ba1c6be0953b6f9c2ba38e57f615421";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+  </script>
+  
+
+<!-- google 统计 -->
+  
+  <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-84134159-3', 'auto');
+      ga('send', 'pageview');
+  </script>
+  
+
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9005224472374751",
+    enable_page_level_ads: true
+  });
+</script>
+
+</head>
+
+
+  <body>
+
+    <span class="mobile btn-mobile-menu">        
+      <div class="nav_container">
+         <nav class="nav-menu-item" style = "float:right">
+            <i class="nav-menu-item">
+              <a href="/#blog" title="" class="blog-button">  博客主页
+              </a>
+            </i>
+            
+                <i class="nav-menu-item">
+
+                  <a href="/archive" title="archive" class="btn-mobile-menu__icon">
+                      所有文章
+                  </a>
+                </i>
+            
+                <i class="nav-menu-item">
+
+                  <a href="/tags" title="tags" class="btn-mobile-menu__icon">
+                      标签
+                  </a>
+                </i>
+            
+                <i class="nav-menu-item">
+
+                  <a href="/about" title="about" class="btn-mobile-menu__icon">
+                      关于我
+                  </a>
+                </i>
+            
+          </nav>
+      </div>
+    </span>
+    
+    <header class="panel-cover " style="background-image: url('/images/background-cover.jpg')">
+  <div class="panel-main">
+
+    <div class="panel-main__inner panel-inverted">
+    <div class="panel-main__content">
+        <!-- 头像效果-start -->
+        <div class="ih-item circle effect right_to_left">            
+            <a href="/#blog" title="前往 潘柏信 的主页" class="blog-button">
+                <div class="img"><img src="/images/avatar.jpg" alt="img"></div>
+                <div class="info">
+                    <div class="info-back">
+                        <h2> 
+                            
+                                leopardpan
+                            
+                        </h2>
+                        <p>
+                           
+                                iOS / 机器学习
+                            
+                        </p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <!-- 头像效果-end -->
+        <h1 class="panel-cover__title panel-title"><a href="/#blog" title="link to homepage for 潘柏信" class="blog-button">潘柏信</a></h1>
+        
+        <span class="panel-cover__subtitle panel-subtitle">个人站</span>
+        
+        <hr class="panel-cover__divider" />
+        <p class="panel-cover__description">欢迎来到我的个人站~</p>
+        <hr class="panel-cover__divider panel-cover__divider--secondary" />
+        
+        
+        
+
+        <div class="navigation-wrapper">
+          <div>
+            <nav class="cover-navigation cover-navigation--primary">
+              <ul class="navigation">
+                <li class="navigation__item"><a href="/#blog" title="" class="blog-button">博客主页</a></li>
+                
+                  <li class="navigation__item"><a href="/archive" title="archive">所有文章</a></li>
+                
+                  <li class="navigation__item"><a href="/tags" title="tags">标签</a></li>
+                
+                  <li class="navigation__item"><a href="/about" title="about">关于我</a></li>
+                
+              </ul>
+            </nav>
+          </div>          
+        </div>
+
+
+        </div>
+      </div>
+    </div>
+    
+    
+    <div class="panel-cover--overlay cover-clear"></div>
+    
+  </div>
+</header>
+
+
+    <div class="content-wrapper">
         <div class="content-wrapper__inner">
             <div class="main-post-list hidden">
 
@@ -430,7 +602,8 @@
     </li>
     
   </ol>
-<hr class="post-list__divider " />
+
+  <hr class="post-list__divider " />
 
 <nav class="pagination" role="navigation">
 
