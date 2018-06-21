@@ -9,18 +9,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <title>潘柏信</title>
-  <meta name="description" content="欢迎来到我的个人站~">
-  <meta name="author" content="leopardpan">
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="潘柏信">
-  <meta name="twitter:description" content="欢迎来到我的个人站~">
-  
-  <meta property="og:type" content="article">
-  <meta property="og:title" content="潘柏信">
-  <meta property="og:description" content="欢迎来到我的个人站~">
-  
   <link rel="icon" type="image/png" href="/images/favicon.png" />
   <link href="/images/favicon.png" rel="shortcut icon" type="image/png">
   
@@ -28,7 +16,7 @@
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
   <link rel="canonical" href="http://baixin.io/">
-  <link rel="alternate" type="application/rss+xml" title="潘柏信" href="http://baixin.io/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="赖欣欣" href="http://lxxxzf.github.io/feed.xml">
   
   <meta name="google-site-verification" content="1-1ZlHoRvM0T2FqPbW2S-qLgYXN6rsn52kErlMPd_gw" />
 
