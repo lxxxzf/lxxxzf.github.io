@@ -8,17 +8,17 @@
 
 [蔡子超的博客]( https://xing8228.github.io){:target="_blank"}
 
-[陈波的博客] (https://kriszhan.github.io){:target="_blank"}
+[陈波的博客]( https://kriszhan.github.io){:target="_blank"}
 
-[陈嘉敏的博客] (https://shujsegubfgf.github.io){:target="_blank"}
+[陈嘉敏的博客]( https://shujsegubfgf.github.io/){:target="_blank"}
 
 [陈锦署的博客]( https://chenjinshu123.github.io/){:target="_blank"}
 
-[陈明航的博客] (https://crazylxr.github.io/){:target="_blank"}
+[陈明航的博客]( https://crazyylxr.github.io/){:target="_blank"}
 
 [陈雅凤的博客]( http://neineimax.guthub.io){:target="_blank"}
 
-[陈怡珊的博客] ( https://chenyishan.github.io){:target="_blank"}
+[陈怡珊的博客]( https://chenyishan.guthub.io){:target="_blank"}
 
 [范舒萍的博客]( https://fanshuping.github.io/){:target="_blank"}
 
@@ -38,14 +38,13 @@
 
 [李照的博客]( https://www.lizhao.tech/){:target="_blank"}
 
-[林婕的博客] ( https://github.com/L55J/L55J.github.io){:target="_blank"}
+[林婕的博客]( https://github.com/L55J/L55J.github.io){:target="_blank"}
 
 [林晓畑的博客]( https://lxtxx.github.io){:target="_blank"}
 
-[林燕凤的博客] ( https://github.com/Raynas/Raynas.github.io){:target="_blank"}
+[林燕凤的博客]( https://github.com/Raynas/Raynas.github.io){:target="_blank"}
 
-[陆明清的博客] ( www.babylikeLmq.github.io){:target="_blank"}
-
+[陆明清的博客]( www.babylikeLmg.github.io){:target="_blank"}
 
 　　随着社会的发展和科技的进步,到网上去检索或者去阅读已成为我们学习的又一种方式。随着科技的进步，人们的阅读方式也在悄然发生着变化。为了适应社会的变化，更好地倡导大家积极读书，下面将为大家介绍一些书籍。  
 ### 一、《面包树上的女人》——想要忘记一段感情，方法永远只有一个：时间和新欢。要是时间和新欢也不能让你忘记一段感情，原因只有一个：时间不够长，新欢不够好。
