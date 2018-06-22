@@ -1,6 +1,7 @@
 # Welcome to 欣女神的博客！
 # Welcome to 欣女神的博客！！
 # Welcome to 欣女神的博客！！！
+<audio autoplay="" loop=""><source src="https://github.com/lxxxzf/lxxxzf.github.io/blob/master/musics/%E5%88%98%E5%A2%9E%E7%9E%B3%20-%20%E5%A4%9A%E6%83%B3%E7%95%99%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9.mp3"></audio>
 ### 通信1班博客网址
 朱俊铭的博客]
 
