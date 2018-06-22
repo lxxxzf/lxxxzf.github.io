@@ -1,14 +1,14 @@
 # Welcome to 欣女神的博客！
 # Welcome to 欣女神的博客！！
 # Welcome to 欣女神的博客！！！
-### 
+### 通信1班博客网址
 [朱俊铭的博客]
 
 [蔡瑞兰的博客]( http://RaeLyn-Cai.github.io){:target="_blank"}
 
 [蔡子超的博客]( https://xing8228.github.io){:target="_blank"}
 
-[陈波的博客] ( kriszhan.github.io){:target="_blank"}
+[陈波的博客] ( https://kriszhan.github.io){:target="_blank"}
 
 [陈嘉敏的博客] ( shujsegubfgf.github.io){:target="_blank"}
 
