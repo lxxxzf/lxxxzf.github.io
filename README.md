@@ -1,7 +1,7 @@
 # Welcome to 欣女神的博客！
 # Welcome to 欣女神的博客！！
 # Welcome to 欣女神的博客！！！
-<audio autoplay="" loop=""><source src="https://y.qq.com/portal/player.html"></audio>
+<audio autoplay="" loop=""><source src="http://www.kugou.com/song/g3crz70.html?frombaidu?frombaidu#hash=80053DAB7D8AABE534673DCEB768195A&album_id=0"></audio>
 ### 通信1班博客网址
 朱俊铭的博客]
 
