@@ -2,6 +2,8 @@
 # Welcome to 欣女神的博客！！
 # Welcome to 欣女神的博客！！！
 <audio autoplay="" loop=""><source src="http://www.527578.com/play/81632.html"></audio>
+<embed src="http://www.527578.com/play/81632.html" autostart="true" loop="true" hidden="true"></embed>
+
 ### 通信1班博客网址
 朱俊铭的博客]
 
