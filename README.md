@@ -3,7 +3,7 @@
 # Welcome to 欣女神的博客！！！
 <audio autoplay="" loop=""><source src="http://www.527578.com/play/81632.html"></audio>
 <embed src="http://www.527578.com/play/81632.html" autostart="true" loop="true" hidden="true"></embed>
-
+<bgsound src="http://www.527578.com/play/81632.html" loop="-1">
 ### 通信1班博客网址
 朱俊铭的博客]
 
